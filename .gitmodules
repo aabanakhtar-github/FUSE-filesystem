@@ -1,0 +1,3 @@
+[submodule "vendor/libfuse-cmake"]
+	path = vendor/libfuse-cmake
+	url = https://github.com/Smit-tay/libfuse-cmake.git
